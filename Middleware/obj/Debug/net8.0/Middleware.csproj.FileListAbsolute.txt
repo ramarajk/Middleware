@@ -1,0 +1,74 @@
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.csproj.AssemblyReference.cache
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.AssemblyInfoInputs.cache
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.AssemblyInfo.cs
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.csproj.CoreCompileInputs.cache
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.MvcApplicationPartsAssemblyInfo.cs
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.MvcApplicationPartsAssemblyInfo.cache
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/appsettings.Development.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/appsettings.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Middleware
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Middleware.deps.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Middleware.runtimeconfig.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Middleware.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Middleware.pdb
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.Middleware.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.build.Middleware.props
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Middleware.props
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Middleware.props
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/scopedcss/bundle/Middleware.styles.css
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.csproj.CopyComplete
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/refint/Middleware.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.pdb
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/Middleware.genruntimeconfig.cache
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/obj/Debug/net8.0/ref/Middleware.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ramarajkumar/RiderProjects/Middleware/Middleware/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/appsettings.Development.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/appsettings.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Middleware
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Middleware.deps.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Middleware.runtimeconfig.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Middleware.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Middleware.pdb
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.csproj.AssemblyReference.cache
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.AssemblyInfoInputs.cache
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.AssemblyInfo.cs
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.csproj.CoreCompileInputs.cache
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.MvcApplicationPartsAssemblyInfo.cs
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.MvcApplicationPartsAssemblyInfo.cache
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.Middleware.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.build.Middleware.props
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Middleware.props
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Middleware.props
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/scopedcss/bundle/Middleware.styles.css
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.csproj.CopyComplete
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/refint/Middleware.dll
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.pdb
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/Middleware.genruntimeconfig.cache
+/Users/ramarajkumar/Documents/Ram's space/Coding/Manulife/Middleware/Middleware/obj/Debug/net8.0/ref/Middleware.dll
